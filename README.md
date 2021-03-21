@@ -2,6 +2,6 @@
 **Pythonista | Fledgling full stack web developer |  CS student**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin025)](https://github.com/anuraghazra/github-readme-stats)
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin025&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=robin025"/></td></tr></table>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=robin025.robin025)](https://github.com/robin025)
