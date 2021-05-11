@@ -6,5 +6,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin025&include_all_commits=true&theme=dark&show_icons=true)
-
+<img src="https://activity-graph.herokuapp.com/graph?username=robin025&theme=react-dark" alt="Contribution Graph" align="center" />
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=robin025.robin025)](https://github.com/robin025)
