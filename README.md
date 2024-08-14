@@ -1,5 +1,6 @@
-## Hello World ✨ This is Robin Singh
-**Actively seeking SDE/SWE roles starting 2024 • AI + Software • Full Stack • CS**
+<h2 align='center'><samp><strong>Hello World ✨ This is Robin Singh</strong></samp></h2>
+
+<p align='center'>Actively seeking SDE/SWE roles starting 2024 • AI + Software • Full Stack • CS</p>
 
 Enthusiastic Computer Science graduate from the University of Massachusetts, specializing in software development, AI, NLP. I have a proven track record as a Software Engineer Intern at Cool Green Power LLC, where I worked on the MERN stack project. This application enables property managers to monitor their assets effectively through a network of numerous IoT sensors.
 
@@ -36,6 +37,7 @@ I am a lifelong learner, always eager to embrace new challenges and opportunitie
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow&labelColor=ffffff)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=Pytorch&labelColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter&labelColor=ffffff)
+
 
 
 
