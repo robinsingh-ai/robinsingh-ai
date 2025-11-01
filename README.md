@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-robin025.singh%40gmail.com-red?style=flat-square&logo=gmail)](mailto:robin025.singh@gmail.com)
 [![Location](https://img.shields.io/badge/Columbus%2C%20Ohio-blue?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Columbus,Ohio)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/robinsingh-ai)
 
 </div>
 
@@ -157,8 +157,8 @@ University of Mumbai | Aug 2018 – May 2022
 ### 💬 Let's Connect!
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin025.singh@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robinsingh-ai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinsingh-ai)
 
 ---
 
