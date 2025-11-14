@@ -14,16 +14,11 @@
 
 ## 💫 About Me
 
-A Software Engineer with over **3+ years** of experience in delivering high-quality software solutions. I have a proven track record of collaborating with startups to build their **Minimum Viable Products (MVPs)**, including notable companies such as **Tranquility**, **STEM For Others**, and **Cool Green Power**. 
+A Software Engineer with over **3+ years** of experience in delivering high-quality software solutions. I have a proven track record of collaborating with startups to build their **Minimum Viable Products (MVPs)**
 
 I excel in transforming concepts into tangible products, striking an optimal balance between **rapid development** and **robust quality**. My expertise lies in helping entrepreneurs and businesses bring their innovative ideas to fruition efficiently and effectively.
 
-**Key Achievements:**
-- 💰 Reduced cloud costs by **60%** through intelligent architecture
-- ⚡ Improved API latency by **75%** with optimization strategies
-- 📈 Increased user engagement by **60%** across platforms
-- 🚀 Shipped products generating **$20K+ MRR**
-- 👥 Scaled applications from 500 to **5,000+ daily active users**
+
 
 ---
 
@@ -86,53 +81,6 @@ Created a real-time hate speech detection system leveraging a fine-tuned BERT mo
 
 ---
 
-## 💼 Experience Summary
-
-### 🎯 AI Software Engineer @ Tranquility
-*June 2025 - Present*
-
-Building **Encubatorr**, an AI-powered SaaS incubator platform that transforms startup ideas into operational businesses in <3 months.
-
-- Migrated Angular to Next.js → **40% faster page loads**, **18% conversion increase**
-- Architected AI processing pipeline → **60% AWS cost reduction**
-- Built real-time streaming system → **<500ms latency** for 1,000+ concurrent users
-- Engineered multimodal RAG pipeline with ChatGPT, Cohere, and Pinecone
-
----
-
-### 📱 Software Engineer @ STEM For Others
-*Jan 2024 - June 2025*
-
-Shipped React Native AI learning platform to **5,000+ daily active users** with 4.8⭐ rating.
-
-- Deployed AI tutoring agents → **70% improvement** in answer relevance
-- Built OCR pipeline → **99.9% accuracy** across 15 handwriting styles
-- Developed full-stack STEM education platform serving **500K+ monthly lesson views**
-- Integrated Stripe payment processing → **$20K+ MRR**
-
----
-
-### 💻 Software Engineer Intern @ Cool Green Power
-*May 2023 - Sept 2023*
-
-Designed full-stack utility bill platform with offline-first architecture.
-
-- Reduced bill processing time by **30%**
-- Improved app performance by **25%** through optimization
-- Reduced API response latency by **28%**
-
----
-
-### 🌐 Full Stack Software Engineer @ Space Infolab
-*May 2021 - July 2022*
-
-Architected web-based project management platform serving **10,000+ active users**.
-
-- Designed Node.js/Express system supporting **10,000+ concurrent users**
-- Improved query performance by **35%** through optimization
-- Reduced deployment time from 90 to **45 minutes** with CI/CD
-
----
 
 ## 🎓 Education
 
