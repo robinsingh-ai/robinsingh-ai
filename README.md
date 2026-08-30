@@ -1,117 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm Robin Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Robin%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=AI%20%2B%20Software%20Engineer&descSize=22&descAlignY=78" width="100%"/>
 
-### Full-Stack Software Engineer | AI/ML Specialist
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=0F8A4C&center=true&vCenter=true&width=600&lines=🚀+Founding+AI+Engineering+Lead+%40+Shikha+Labs;🧠+LLM+Workflows+·+RAG+·+Real-time+Backends;⚡+4%2B+years+shipping+production+AI)](https://www.robinsingh.xyz)
 
-[![Email](https://img.shields.io/badge/Email-robin025.singh%40gmail.com-red?style=flat-square&logo=gmail)](mailto:robin025.singh@gmail.com)
-[![Location](https://img.shields.io/badge/Columbus%2C%20Ohio-blue?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Columbus,Ohio)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/robinsingh-ai)
+<br/>
+
+<a href="https://www.robinsingh.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-robinsingh.xyz-0F8A4C?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="mailto:robin025.singh@gmail.com"><img src="https://img.shields.io/badge/📮_Email-Say_Hello-EA4335?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/robinsingh-ai/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1a1a2e" /></a>
+
+<img src="https://img.shields.io/badge/📍-Massachusetts,_US_·_Remote-2563FF?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🔥-Open_to_Founding_Engineer_Roles-EA6A00?style=flat-square&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=robinsingh-ai&color=blueviolet&style=flat-square&label=✨+Visitors" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 💫 About Me
+## 🧬 About
 
-A Software Engineer with over **3+ years** of experience in delivering high-quality software solutions. I have a proven track record of collaborating with startups to build their **Minimum Viable Products (MVPs)**
+```typescript
+const robin = {
+  role: "Founding AI Full-Stack Engineering Lead @ Shikha Labs 🏫",
+  focus: ["LLM workflows", "RAG pipelines", "Real-time backends", "AI interfaces"],
+  belief: "Most AI products fail at the interface, not the model 🎯",
+};
+```
 
-I excel in transforming concepts into tangible products, striking an optimal balance between **rapid development** and **robust quality**. My expertise lies in helping entrepreneurs and businesses bring their innovative ideas to fruition efficiently and effectively.
-
-
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Omni Docs](https://github.com/yourusername/omnidocs)
-**AI-Powered Documentation Chatbot**
-
-Built an intelligent documentation assistant with FastAPI backend and auto-scaling gRPC servers. Integrated LangChain agents with OpenAI/LLaMA models for advanced query processing and implemented hybrid search using FAISS vector store, Supabase for structured data, and Redis for caching. Containerized with Docker/Kubernetes for cloud-agnostic deployment.
-
-**Tech:** FastAPI, LangChain, OpenAI, FAISS, Redis, Docker, Kubernetes
-
----
-
-### 🎨 [AutomataVerse](https://github.com/yourusername/automataverse)
-**Automata Design & Simulation Platform**
-
-Developed a full-stack Next.js application enabling users to design, test, and share automata. Built cloud storage, authentication, and interactive simulators with Firebase, React, and Tailwind CSS, serving 1,000+ users.
-
-**Tech:** Next.js, Firebase, React, Tailwind CSS
-
----
-
-### 🛡️ [Hate Speech Detection](https://github.com/yourusername/hate-speech-detection)
-**Chrome Extension for Content Moderation**
-
-Created a real-time hate speech detection system leveraging a fine-tuned BERT model achieving 84% accuracy. Trained on 250K+ annotated tweets with serverless AWS Lambda deployment optimized for <100ms response time.
-
-**Tech:** Next.js, BERT, AWS Lambda, Docker, NLP
-
----
-
-
-## 🎓 Education
-
-**Master of Science in Computer and Information Science**  
-University of Massachusetts | *GPA: 3.6/4* | Sep 2022 – Sep 2024
-
-**Bachelor of Engineering in Computer Science**  
-University of Mumbai | Aug 2018 – May 2022
-
----
-
-## 📜 Certifications
-
-- 🏅 IBM AI Developer - Coursera
-- 🏅 IBM AI Engineering - Coursera
-- 🏅 HackerRank: Java, Python, SQL, C (Basic & Intermediate)
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <div align="center">
 
-### 💬 Let's Connect!
+## 🛠️ Tech Stack
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin025.singh@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robinsingh-ai)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinsingh-ai)
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,go,kotlin,nextjs,react,fastapi,nodejs,graphql&perline=11" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,azure,docker,kubernetes,terraform,postgres,redis,supabase,mongodb,firebase&perline=12" />
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8B2FE0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMOps-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
 
----
+</div>
 
-⚡ *Transforming ideas into scalable products* ⚡
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=robinsingh-ai&color=blueviolet&style=flat-square)
+<div align="center">
+
+## 🚀 Things I've Shipped
+
+| | Project | What it is | |
+|:---:|:---|:---|:---:|
+| 🤖 | **[Omni Docs](https://omnidocs.live)** | AI docs assistant — hybrid retrieval, 4× faster answers | `AI/ML` |
+| 📝 | **[Notoo](https://notoo.app)** | Browser tools that keep your files on *your* machine | `Local-first` |
+| 🎨 | **[AutomataVerse](https://automataverse.com)** | Design & simulate automata — 1,000+ users | `Web` |
+| 🥚 | **[Yolk AI](https://apps.apple.com/in/app/yolk-ai-einstein-ai-method/id6736928388)** | AI exam companion, live on the App Store | `Mobile` |
+| 📓 | **[Notoo Journal](https://journal.notoo.app/)** | Write in bursts that thread like a conversation | `Product` |
+| 🔖 | **[Bookmarkly](https://bookmarkly.notoo.app/)** | Saves the page, not just the address | `Beta` |
+
+✨ **More labs, case studies & writing → [robinsingh.xyz](https://www.robinsingh.xyz)**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 💼 Journey
+
+```mermaid
+timeline
+    2021 : Space Infolab — Full-Stack Engineer
+    2023 : Cool Green Power — SWE Intern
+    2024 : STEM for Others — Software Engineer
+         : M.S. CIS, UMass 🎓
+    2025 : Tranquility — AI Software Engineer
+    2026 : Shikha Labs — Founding AI Engineering Lead 🚀
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<div align="center">
+
+## 📊 Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=robinsingh-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsingh-ai&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img src="https://streak-stats.demolab.com?user=robinsingh-ai&theme=tokyonight&hide_border=true&background=00000000" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 💬 Let's Build Something
+
+[![Portfolio](https://img.shields.io/badge/🌐_robinsingh.xyz-0F8A4C?style=for-the-badge&labelColor=1a1a2e)](https://www.robinsingh.xyz)
+[![Email](https://img.shields.io/badge/📮_Email-EA4335?style=for-the-badge&labelColor=1a1a2e)](mailto:robin025.singh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=1a1a2e)](https://www.linkedin.com/in/robinsingh-ai/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 </div>
